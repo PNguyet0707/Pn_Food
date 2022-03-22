@@ -1,4 +1,5 @@
-{
+{ 
+  "homepage": "https://pnguyet0707.github.io/Pn_Food",
   "name": "fe",
   "version": "0.1.0",
   "private": true,
@@ -42,9 +43,12 @@
   },
   "scripts": {
     "start": "craco start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "craco build",
     "test": "craco test",
     "eject": "craco eject"
+
   },
   "eslintConfig": {
     "extends": "react-app"
