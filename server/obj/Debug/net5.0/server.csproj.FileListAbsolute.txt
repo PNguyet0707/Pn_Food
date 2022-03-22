@@ -1,0 +1,341 @@
+D:/framework_IS220.M11_12/server/bin/Debug/net5.0/appsettings.Development.json
+D:/framework_IS220.M11_12/server/bin/Debug/net5.0/appsettings.json
+D:/framework_IS220.M11_12/server/bin/Debug/net5.0/server.exe
+D:/framework_IS220.M11_12/server/bin/Debug/net5.0/server.deps.json
+D:/framework_IS220.M11_12/server/bin/Debug/net5.0/server.runtimeconfig.json
+D:/framework_IS220.M11_12/server/bin/Debug/net5.0/server.runtimeconfig.dev.json
+D:/framework_IS220.M11_12/server/bin/Debug/net5.0/server.dll
+D:/framework_IS220.M11_12/server/bin/Debug/net5.0/ref/server.dll
+D:/framework_IS220.M11_12/server/bin/Debug/net5.0/server.pdb
+D:/framework_IS220.M11_12/server/bin/Debug/net5.0/System.Net.Http.Formatting.dll
+D:/framework_IS220.M11_12/server/bin/Debug/net5.0/System.Web.Http.dll
+D:/framework_IS220.M11_12/server/bin/Debug/net5.0/System.Web.Http.WebHost.dll
+D:/framework_IS220.M11_12/server/bin/Debug/net5.0/Microsoft.OpenApi.dll
+D:/framework_IS220.M11_12/server/bin/Debug/net5.0/Newtonsoft.Json.dll
+D:/framework_IS220.M11_12/server/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+D:/framework_IS220.M11_12/server/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/framework_IS220.M11_12/server/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/framework_IS220.M11_12/server/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/framework_IS220.M11_12/server/obj/Debug/net5.0/server.csproj.AssemblyReference.cache
+D:/framework_IS220.M11_12/server/obj/Debug/net5.0/server.GeneratedMSBuildEditorConfig.editorconfig
+D:/framework_IS220.M11_12/server/obj/Debug/net5.0/server.AssemblyInfoInputs.cache
+D:/framework_IS220.M11_12/server/obj/Debug/net5.0/server.AssemblyInfo.cs
+D:/framework_IS220.M11_12/server/obj/Debug/net5.0/server.csproj.CoreCompileInputs.cache
+D:/framework_IS220.M11_12/server/obj/Debug/net5.0/server.MvcApplicationPartsAssemblyInfo.cs
+D:/framework_IS220.M11_12/server/obj/Debug/net5.0/server.MvcApplicationPartsAssemblyInfo.cache
+D:/framework_IS220.M11_12/server/obj/Debug/net5.0/staticwebassets/server.StaticWebAssets.Manifest.cache
+D:/framework_IS220.M11_12/server/obj/Debug/net5.0/staticwebassets/server.StaticWebAssets.xml
+D:/framework_IS220.M11_12/server/obj/Debug/net5.0/scopedcss/bundle/server.styles.css
+D:/framework_IS220.M11_12/server/obj/Debug/net5.0/server.RazorTargetAssemblyInfo.cache
+D:/framework_IS220.M11_12/server/obj/Debug/net5.0/server.csproj.CopyComplete
+D:/framework_IS220.M11_12/server/obj/Debug/net5.0/server.dll
+D:/framework_IS220.M11_12/server/obj/Debug/net5.0/ref/server.dll
+D:/framework_IS220.M11_12/server/obj/Debug/net5.0/server.pdb
+D:/framework_IS220.M11_12/server/obj/Debug/net5.0/server.genruntimeconfig.cache
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/bin/Debug/net5.0/appsettings.Development.json
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/bin/Debug/net5.0/appsettings.json
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/bin/Debug/net5.0/server
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/bin/Debug/net5.0/server.deps.json
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/bin/Debug/net5.0/server.runtimeconfig.json
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/bin/Debug/net5.0/server.runtimeconfig.dev.json
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/bin/Debug/net5.0/server.dll
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/bin/Debug/net5.0/ref/server.dll
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/bin/Debug/net5.0/server.pdb
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/bin/Debug/net5.0/System.Net.Http.Formatting.dll
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/bin/Debug/net5.0/System.Web.Http.dll
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/bin/Debug/net5.0/System.Web.Http.WebHost.dll
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/bin/Debug/net5.0/Newtonsoft.Json.dll
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/obj/Debug/net5.0/server.csproj.AssemblyReference.cache
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/obj/Debug/net5.0/server.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/obj/Debug/net5.0/server.AssemblyInfoInputs.cache
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/obj/Debug/net5.0/server.AssemblyInfo.cs
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/obj/Debug/net5.0/server.csproj.CoreCompileInputs.cache
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/obj/Debug/net5.0/server.MvcApplicationPartsAssemblyInfo.cs
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/obj/Debug/net5.0/server.MvcApplicationPartsAssemblyInfo.cache
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/obj/Debug/net5.0/staticwebassets/server.StaticWebAssets.Manifest.cache
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/obj/Debug/net5.0/staticwebassets/server.StaticWebAssets.xml
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/obj/Debug/net5.0/scopedcss/bundle/server.styles.css
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/obj/Debug/net5.0/server.RazorTargetAssemblyInfo.cache
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/obj/Debug/net5.0/server.csproj.CopyComplete
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/obj/Debug/net5.0/server.dll
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/obj/Debug/net5.0/ref/server.dll
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/obj/Debug/net5.0/server.pdb
+/mnt/d/GithubRepo/framework_IS220.M11_12/server/obj/Debug/net5.0/server.genruntimeconfig.cache
+/home/haidang309/Documents/framework_IS220.M11_12/server/obj/Debug/net5.0/server.csproj.AssemblyReference.cache
+/home/haidang309/Documents/framework_IS220.M11_12/server/obj/Debug/net5.0/server.GeneratedMSBuildEditorConfig.editorconfig
+/home/haidang309/Documents/framework_IS220.M11_12/server/obj/Debug/net5.0/server.AssemblyInfoInputs.cache
+/home/haidang309/Documents/framework_IS220.M11_12/server/obj/Debug/net5.0/server.AssemblyInfo.cs
+/home/haidang309/Documents/framework_IS220.M11_12/server/obj/Debug/net5.0/server.csproj.CoreCompileInputs.cache
+/home/haidang309/Documents/framework_IS220.M11_12/server/obj/Debug/net5.0/server.MvcApplicationPartsAssemblyInfo.cs
+/home/haidang309/Documents/framework_IS220.M11_12/server/obj/Debug/net5.0/server.MvcApplicationPartsAssemblyInfo.cache
+/home/haidang309/Documents/framework_IS220.M11_12/server/obj/Debug/net5.0/server.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/obj/Debug/net5.0/ref/server.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/obj/Debug/net5.0/server.pdb
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/appsettings.Development.json
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/appsettings.json
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/server
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/server.deps.json
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/server.runtimeconfig.json
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/server.runtimeconfig.dev.json
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/server.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/ref/server.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/server.pdb
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/System.Net.Http.Formatting.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/System.Web.Http.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/System.Web.Http.WebHost.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/runtimes/win-arm64/native/sni.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/runtimes/win-x64/native/sni.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/runtimes/win-x86/native/sni.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/haidang309/Documents/framework_IS220.M11_12/server/obj/Debug/net5.0/staticwebassets/server.StaticWebAssets.Manifest.cache
+/home/haidang309/Documents/framework_IS220.M11_12/server/obj/Debug/net5.0/staticwebassets/server.StaticWebAssets.xml
+/home/haidang309/Documents/framework_IS220.M11_12/server/obj/Debug/net5.0/scopedcss/bundle/server.styles.css
+/home/haidang309/Documents/framework_IS220.M11_12/server/obj/Debug/net5.0/server.RazorTargetAssemblyInfo.cache
+/home/haidang309/Documents/framework_IS220.M11_12/server/obj/Debug/net5.0/server.csproj.CopyComplete
+/home/haidang309/Documents/framework_IS220.M11_12/server/obj/Debug/net5.0/server.genruntimeconfig.cache
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\appsettings.Development.json
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\appsettings.json
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\server.exe
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\server.deps.json
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\server.runtimeconfig.json
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\server.runtimeconfig.dev.json
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\server.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\ref\server.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\server.pdb
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\System.Web.Http.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\System.Web.Http.WebHost.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GithubRepo\framework_IS220.M11_12\server\obj\Debug\net5.0\server.csproj.AssemblyReference.cache
+D:\GithubRepo\framework_IS220.M11_12\server\obj\Debug\net5.0\server.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubRepo\framework_IS220.M11_12\server\obj\Debug\net5.0\server.AssemblyInfoInputs.cache
+D:\GithubRepo\framework_IS220.M11_12\server\obj\Debug\net5.0\server.AssemblyInfo.cs
+D:\GithubRepo\framework_IS220.M11_12\server\obj\Debug\net5.0\server.csproj.CoreCompileInputs.cache
+D:\GithubRepo\framework_IS220.M11_12\server\obj\Debug\net5.0\server.MvcApplicationPartsAssemblyInfo.cs
+D:\GithubRepo\framework_IS220.M11_12\server\obj\Debug\net5.0\server.MvcApplicationPartsAssemblyInfo.cache
+D:\GithubRepo\framework_IS220.M11_12\server\obj\Debug\net5.0\staticwebassets\server.StaticWebAssets.Manifest.cache
+D:\GithubRepo\framework_IS220.M11_12\server\obj\Debug\net5.0\scopedcss\bundle\server.styles.css
+D:\GithubRepo\framework_IS220.M11_12\server\obj\Debug\net5.0\server.RazorTargetAssemblyInfo.cache
+D:\GithubRepo\framework_IS220.M11_12\server\obj\Debug\net5.0\server.csproj.CopyComplete
+D:\GithubRepo\framework_IS220.M11_12\server\obj\Debug\net5.0\server.dll
+D:\GithubRepo\framework_IS220.M11_12\server\obj\Debug\net5.0\ref\server.dll
+D:\GithubRepo\framework_IS220.M11_12\server\obj\Debug\net5.0\server.pdb
+D:\GithubRepo\framework_IS220.M11_12\server\obj\Debug\net5.0\server.genruntimeconfig.cache
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\AutoMapper.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\System.Web.Mvc.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\System.Web.Razor.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\System.Web.Helpers.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\System.Web.WebPages.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+D:\GithubRepo\framework_IS220.M11_12\server\bin\Debug\net5.0\Humanizer.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\appsettings.Development.json
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\appsettings.json
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\server.exe
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\server.deps.json
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\server.runtimeconfig.json
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\server.runtimeconfig.dev.json
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\server.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\ref\server.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\server.pdb
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\AutoMapper.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\Humanizer.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\System.Web.Mvc.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\System.Web.Razor.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\System.Web.Http.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\System.Web.Http.WebHost.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\System.Web.Helpers.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\System.Web.WebPages.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GithubRepo\Ck-Web\server\obj\Debug\net5.0\server.csproj.AssemblyReference.cache
+D:\GithubRepo\Ck-Web\server\obj\Debug\net5.0\server.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubRepo\Ck-Web\server\obj\Debug\net5.0\server.AssemblyInfoInputs.cache
+D:\GithubRepo\Ck-Web\server\obj\Debug\net5.0\server.AssemblyInfo.cs
+D:\GithubRepo\Ck-Web\server\obj\Debug\net5.0\server.csproj.CoreCompileInputs.cache
+D:\GithubRepo\Ck-Web\server\obj\Debug\net5.0\server.MvcApplicationPartsAssemblyInfo.cs
+D:\GithubRepo\Ck-Web\server\obj\Debug\net5.0\server.MvcApplicationPartsAssemblyInfo.cache
+D:\GithubRepo\Ck-Web\server\obj\Debug\net5.0\scopedcss\bundle\server.styles.css
+D:\GithubRepo\Ck-Web\server\obj\Debug\net5.0\staticwebassets\server.StaticWebAssets.Manifest.cache
+D:\GithubRepo\Ck-Web\server\obj\Debug\net5.0\server.RazorTargetAssemblyInfo.cache
+D:\GithubRepo\Ck-Web\server\obj\Debug\net5.0\server.csproj.CopyComplete
+D:\GithubRepo\Ck-Web\server\obj\Debug\net5.0\server.dll
+D:\GithubRepo\Ck-Web\server\obj\Debug\net5.0\ref\server.dll
+D:\GithubRepo\Ck-Web\server\obj\Debug\net5.0\server.pdb
+D:\GithubRepo\Ck-Web\server\obj\Debug\net5.0\server.genruntimeconfig.cache
+D:\GithubRepo\Ck-Web\server\bin\Debug\net5.0\dotenv.net.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\appsettings.json
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\server.exe
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\server.deps.json
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\server.runtimeconfig.json
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\server.runtimeconfig.dev.json
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\server.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\ref\server.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\server.pdb
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\dotenv.net.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\Humanizer.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\System.Web.Http.WebHost.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\obj\Debug\net5.0\server.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\obj\Debug\net5.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\obj\Debug\net5.0\server.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\obj\Debug\net5.0\server.AssemblyInfo.cs
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\obj\Debug\net5.0\server.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\obj\Debug\net5.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\obj\Debug\net5.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\obj\Debug\net5.0\staticwebassets\server.StaticWebAssets.Manifest.cache
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\obj\Debug\net5.0\staticwebassets\server.StaticWebAssets.xml
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\obj\Debug\net5.0\scopedcss\bundle\server.styles.css
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\obj\Debug\net5.0\server.RazorTargetAssemblyInfo.cache
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\obj\Debug\net5.0\server.csproj.CopyComplete
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\obj\Debug\net5.0\server.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\obj\Debug\net5.0\ref\server.dll
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\obj\Debug\net5.0\server.pdb
+C:\Users\admin\Downloads\CK_Web-master (1)\CK_Web-master\server\obj\Debug\net5.0\server.genruntimeconfig.cache
